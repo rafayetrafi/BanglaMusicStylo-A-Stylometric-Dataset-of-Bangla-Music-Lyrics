@@ -11,7 +11,7 @@ analysis such as authorship attribution, linguistic forensics, gender identifica
 vandalism detection, emotion classification etc. Identifying the significant research opportunities in this area, we have formalized this
 dataset which could be used for stylometric analysis.
 
-*** Author must site our paper ***
+*** Author must cite our paper ***
 
 Link: https://www.semanticscholar.org/paper/BanglaMusicStylo%3A-A-Stylometric-Dataset-of-Bangla-Hossain-Marouf/0bc34fcb3ee03a6e49e7d6161209e0ba1c9f54d8
 
